@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yeezy-quote-machine/static/css/main.c6f88d4b.chunk.css",
+    "main.js": "/yeezy-quote-machine/static/js/main.a6cb51fa.chunk.js",
+    "main.js.map": "/yeezy-quote-machine/static/js/main.a6cb51fa.chunk.js.map",
+    "runtime-main.js": "/yeezy-quote-machine/static/js/runtime-main.a3bdeefa.js",
+    "runtime-main.js.map": "/yeezy-quote-machine/static/js/runtime-main.a3bdeefa.js.map",
+    "static/js/2.45a8c064.chunk.js": "/yeezy-quote-machine/static/js/2.45a8c064.chunk.js",
+    "static/js/2.45a8c064.chunk.js.map": "/yeezy-quote-machine/static/js/2.45a8c064.chunk.js.map",
+    "index.html": "/yeezy-quote-machine/index.html",
+    "precache-manifest.f27e742af37df79c20d974066b08f224.js": "/yeezy-quote-machine/precache-manifest.f27e742af37df79c20d974066b08f224.js",
+    "service-worker.js": "/yeezy-quote-machine/service-worker.js",
+    "static/css/main.c6f88d4b.chunk.css.map": "/yeezy-quote-machine/static/css/main.c6f88d4b.chunk.css.map",
+    "static/js/2.45a8c064.chunk.js.LICENSE.txt": "/yeezy-quote-machine/static/js/2.45a8c064.chunk.js.LICENSE.txt",
+    "static/media/Container.scss": "/yeezy-quote-machine/static/media/SandsGreyhoodSeven.54594856.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3bdeefa.js",
+    "static/js/2.45a8c064.chunk.js",
+    "static/css/main.c6f88d4b.chunk.css",
+    "static/js/main.a6cb51fa.chunk.js"
+  ]
+}
