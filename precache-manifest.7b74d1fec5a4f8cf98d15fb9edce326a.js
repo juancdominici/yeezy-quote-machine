@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6b74f3b808b1a41f3b7b2a83bdcf9ae",
+    "revision": "b54a9f836417d8d941c93b168d8f566e",
     "url": "/yeezy-quote-machine/index.html"
   },
   {
-    "revision": "2ac84bfc52dde3df4765",
-    "url": "/yeezy-quote-machine/static/css/main.2952d8f8.chunk.css"
+    "revision": "340fb96f781995a74f5b",
+    "url": "/yeezy-quote-machine/static/css/main.54728248.chunk.css"
   },
   {
     "revision": "549e7e467b59d86be8dd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yeezy-quote-machine/static/js/2.45a8c064.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ac84bfc52dde3df4765",
+    "revision": "340fb96f781995a74f5b",
     "url": "/yeezy-quote-machine/static/js/main.b26d65cc.chunk.js"
   },
   {

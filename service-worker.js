@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yeezy-quote-machine/precache-manifest.2bdd61dbea631ffea118f8973fd6a987.js"
+  "/yeezy-quote-machine/precache-manifest.7b74d1fec5a4f8cf98d15fb9edce326a.js"
 );
 
 self.addEventListener('message', (event) => {
