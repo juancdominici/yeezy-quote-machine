@@ -127,7 +127,8 @@ body {
     width: 100vw;
     height: 110vh;
     overflow: visible;
-    background-color: #0c0c0c;
+    background-color: #ffffff;
+    background-image: url(http://api.thumbr.it/whitenoise-361x370.png);
 }
 body:after {
     content: "";
@@ -138,6 +139,7 @@ body:after {
     right: -100%;
     animation: none;
     background-image: url(http://api.thumbr.it/whitenoise-361x370.png);
+    opacity: 0.8;
     z-index: -1;
 }
 
