@@ -120,8 +120,8 @@ p {
     display: flex;
     flex-flow: column nowrap;
     align-items: flex-end;
-    font-size: 4em;
-    margin-top: 10em;
+    font-size: 2em;
+    margin-top: 5em;
 }
 body {
     width: 100vw;
@@ -142,7 +142,7 @@ body:after {
 }
 
 #author, #text, .button {
-    font-size: 4em;
+    font-size: 2em;
     height: fit-content;
     display: flex;
     justify-content: space-around;
@@ -153,7 +153,7 @@ body:after {
 }
 
 #author, .button {
-    font-size: 3em;
+    font-size: 1.5em;
 }
 
 #twitter-img {
@@ -161,7 +161,7 @@ body:after {
 }
 
 footer {
-font-size: 1.5em;
+font-size: 1.3em;
 }
 }
 
